@@ -11,7 +11,7 @@ setuptools.setup(
     version="0.0.1",
     author=USER_NAME,
     author_email="kumaram.vipinam@gmail.com",
-    description="Sample Perceptron implementation",
+    description="Sample Perceptron implementation and uploading on Pypi",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/{USER_NAME}/{PROJECT_NAME}",
