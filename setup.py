@@ -8,7 +8,7 @@ USER_NAME = "silentkiller2009"
 
 setuptools.setup(
     name=f"{PROJECT_NAME}-{USER_NAME}",
-    version="0.0.1",
+    version="0.0.2",
     author=USER_NAME,
     author_email="kumaram.vipinam@gmail.com",
     description="Sample Perceptron implementation and uploading on Pypi",
