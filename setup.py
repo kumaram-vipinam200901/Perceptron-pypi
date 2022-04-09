@@ -8,15 +8,15 @@ USER_NAME = "silentkiller2009"
 
 setuptools.setup(
     name=f"{PROJECT_NAME}-{USER_NAME}",
-    version="0.0.2",
+    version="0.0.3",
     author=USER_NAME,
     author_email="kumaram.vipinam@gmail.com",
     description="Sample Perceptron implementation and uploading on Pypi",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/{USER_NAME}/{PROJECT_NAME}",
+    url=f"https://github.com/{USER_NAME}/{PROJECT_NAME}",
     project_urls={
-        "Bug Tracker": "https://github.com/{USER_NAME}/{PROJECT_NAME}/issues",
+        f"Bug Tracker": "https://github.com/{USER_NAME}/{PROJECT_NAME}/issues",
     },
     classifiers=[
         "Programming Language :: Python :: 3",
